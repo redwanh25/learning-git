@@ -1,0 +1,31 @@
+git init
+
+git status
+
+git add QnA.txt
+
+git add --all
+git add .
+
+git commit -m "QnA and Friend Lists Added"
+git commit -m "Name Add"
+git commit -m ""Contact Numbers Added"
+git commit -m ""Contact number removed"
+
+git add friend-lists.txt
+
+git log
+git log --oneline
+
+git checkout 6981781
+git checkout bb09ba5
+
+git checkout master
+
+git branch table-version
+
+git branch
+
+git checkout table-version
+
+git checkout -b table-version-new
